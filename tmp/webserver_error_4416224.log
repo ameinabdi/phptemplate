@@ -1,0 +1,11 @@
+[Sun Oct 27 09:52:03.638374 2019] [core:warn] [pid 12928:tid 656] AH00117: Ignoring deprecated use of DefaultType in line 21 of C:/Users/fahad/Documents/PHPRunnerProjects/Emis/tmp/webserver.conf.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::6057:151b:7185:37f. Set the 'ServerName' directive globally to suppress this message
+[Sun Oct 27 09:52:04.113273 2019] [mpm_winnt:notice] [pid 12928:tid 656] AH00455: Apache/2.4.10 (Win32) PHP/5.5.18 configured -- resuming normal operations
+[Sun Oct 27 09:52:04.113273 2019] [mpm_winnt:notice] [pid 12928:tid 656] AH00456: Apache Lounge VC11 Server built: Jul 17 2014 11:50:08
+[Sun Oct 27 09:52:04.114259 2019] [core:notice] [pid 12928:tid 656] AH00094: Command line: 'C:\\Program Files\\PHPRunner10.3\\EmbeddedServer\\bin\\httpd.exe -d C:/Program Files/PHPRunner10.3/EmbeddedServer -d C:\\Program Files\\PHPRunner10.3\\EmbeddedServer -f C:\\Users\\fahad\\Documents\\PHPRunnerProjects\\Emis\\tmp\\webserver.conf'
+[Sun Oct 27 09:52:04.123271 2019] [mpm_winnt:notice] [pid 12928:tid 656] AH00418: Parent: Created child process 13008
+[Sun Oct 27 09:52:04.507318 2019] [core:warn] [pid 13008:tid 656] AH00117: Ignoring deprecated use of DefaultType in line 21 of C:/Users/fahad/Documents/PHPRunnerProjects/Emis/tmp/webserver.conf.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::6057:151b:7185:37f. Set the 'ServerName' directive globally to suppress this message
+[Sun Oct 27 09:52:04.546988 2019] [core:warn] [pid 13008:tid 656] AH00117: Ignoring deprecated use of DefaultType in line 21 of C:/Users/fahad/Documents/PHPRunnerProjects/Emis/tmp/webserver.conf.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::6057:151b:7185:37f. Set the 'ServerName' directive globally to suppress this message
+[Sun Oct 27 09:52:04.599400 2019] [mpm_winnt:notice] [pid 13008:tid 656] AH00354: Child: Starting 64 worker threads.
